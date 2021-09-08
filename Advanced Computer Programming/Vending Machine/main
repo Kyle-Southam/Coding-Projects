@@ -9,7 +9,7 @@ The 3rd party program used is BOOST filesystem to check the size of the log file
 #include <vector>
 #include <fstream>
 #include <string>
-//#include <boost/filesystem.hpp> //I had alot of issues getting BOOST to work. 
+//#include <boost/filesystem.hpp> //Keep this line commented if you choose not to use BOOST
 
 using namespace std;
 
