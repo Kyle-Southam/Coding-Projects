@@ -69,7 +69,7 @@ int main()
 			{
 				file << *i << endl;
 			}
-			//cout << "The file size of the log.txt file is: " << file_size(file) << endl;
+			//cout << "The file size of the log.txt file is: " << file_size(file) << endl; //if you don't feel like downloading boost keep this line commented
 			file.close();																			//wouldn't work. I'm not sure if I set it up properly. 
 		}
 
