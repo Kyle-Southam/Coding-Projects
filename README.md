@@ -6,5 +6,5 @@ To use this code, you will need to run them on MATLAB. Various projects will req
 If a program requires multiple function files to run, the script to use them will be refered to as "main" while the functions
 retain their original name.
 
-I hope you enjoy! It was fun to make these projects and apply what I have learned.
+I hope you enjoy! It was fun to make these projects and applying what I have learned.
 -Kyle Southam
